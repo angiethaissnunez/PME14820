@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="CmbPais">
+        <item>Honduras(504)</item>
+        <item>Costa rica(506)</item>
+        <item>Guatemala(502)</item>
+        <item>El Salvador(503)</item>
+    </string-array>
+
+</resources>
